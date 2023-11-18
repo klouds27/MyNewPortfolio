@@ -2,7 +2,7 @@ import React from "react";
 import { Container, Row, Col } from "react-bootstrap";
 import ProjectCard from "./ProjectCards";
 import Particle from "../Particle";
-
+import BuberBreakfast from "../../Assets/Projects/BuberBreakfast.png"; 
 import hilinkTravel from "../../Assets/Projects/hilinkTravel.png";
 import kloudEstate from "../../Assets/Projects/kloudEstate.png";
 
@@ -30,8 +30,19 @@ function Projects() {
             />
           </Col>
 
-  
 
+          <Col md={4} className="project-card">
+            <ProjectCard
+              imgPath={BuberBreakfast}
+              isBlog={false}
+              title="BuberBreakfast"
+              description="CRUD REST API from scratch using .NET 6. The backend system supports Creating, Reading, Updating and Deleting breakfasts."
+              ghLink="https://github.com/klouds27"
+              
+            />
+          </Col>
+
+  
           <Col md={4} className="project-card">
             <ProjectCard
               imgPath={hilinkTravel}
