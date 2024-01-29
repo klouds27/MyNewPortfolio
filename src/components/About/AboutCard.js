@@ -22,7 +22,7 @@ function AboutCard() {
             <br />
             Contribuyente activo a proyectos de código abierto.
           </p>
-          <p style={{ color: "rgb(155 126 172)" }}>
+          <p style={{ color: "black" }}>
             "Any program is only as good as it is useful"{" "}
           </p>
           <footer className="blockquote-footer">Linus Torvalds</footer>
