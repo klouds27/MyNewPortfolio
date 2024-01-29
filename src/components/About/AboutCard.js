@@ -8,36 +8,20 @@ function AboutCard() {
       <Card.Body>
         <blockquote className="blockquote mb-0">
           <p style={{ textAlign: "justify" }}>
-            Hi Everyone, I am <span className="purple">Adolfo  </span>
-            from <span className="purple"> Sevilla, España.</span>
+            Hola, soy <span className="purple">Adolfo</span> de <span className="purple">Sevilla, España.</span>
             <br /> 
-            I am a Full Stack Developer.
+            Full Stack Dev
             <br />
-            I am passionate about creating seamless and user-friendly web applications.
+            Apasionado por crear aplicaciones web fluidas y amigables para el usuario
             <br />
-            I am proficient in MERN stack (MongoDB, Express.js, React.js, Node.js).
+            Experimentado en el stack MERN (MongoDB, Express.js, React.js, Node.js).
             <br />
-            I am skilled in Next.js for server-rendered React applications.
+            Habilidades en Next.js para aplicaciones React
             <br />
-            I am experienced in Python for backend development and scripting.
+            Experiencia en Python para desarrollo backend y scripting
             <br />
-            I am an active contributor to open source projects.
-            <br />
-            <br />
-            Apart from coding, some other activities that I love to do!
+            Contribuyente activo a proyectos de código abierto.
           </p>
-          <ul>
-            <li className="about-activity">
-              <ImPointRight /> Make Music
-            </li>
-            <li className="about-activity">
-              <ImPointRight /> Read Tech Blogs
-            </li>
-            <li className="about-activity">
-              <ImPointRight /> Bug Hunting
-            </li>
-          </ul>
-
           <p style={{ color: "rgb(155 126 172)" }}>
             "Any program is only as good as it is useful"{" "}
           </p>
