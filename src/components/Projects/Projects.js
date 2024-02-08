@@ -24,7 +24,7 @@ function Projects() {
               imgPath={kloudEstate}
               isBlog={false}
               title="kloudEstate"
-              description="This project allowed me to dive deep into the MERN stack, advanced authentication methods, Firebase integration, Google OAuth, and more. The journey was not just about creating a real estate application but about mastering the tools and technologies that power modern web development."
+              description="Este proyecto me permitió sumergirme en el stack MERN, métodos avanzados de autenticación, integración de Firebase, Google OAuth y más. El viaje no solo se trató de crear una aplicación inmobiliaria, sino de dominar las herramientas y tecnologías que impulsan el desarrollo web moderno."
               ghLink="https://github.com/klouds27/mern-estate"
               demoLink="https://mern-estate-jpde.onrender.com/"          
             />
@@ -36,7 +36,7 @@ function Projects() {
               imgPath={BuberBreakfast}
               isBlog={false}
               title="BuberBreakfast"
-              description="CRUD REST API from scratch using .NET 6. The backend system supports Creating, Reading, Updating and Deleting breakfasts."
+              description="API REST CRUD desde cero utilizando .NET 6. El sistema backend soporta la Creación, Lectura, Actualización y Eliminación de desayunos."
               ghLink="https://github.com/klouds27/buberBreakfast"
               
             />
@@ -48,7 +48,7 @@ function Projects() {
               imgPath={hilinkTravel}
               isBlog={false}
               title="hilinkTravel"
-              description="This project allowed me to implement cutting-edge technologies and best practices, including Next.js 13, React.js, Tailwind CSS, TypeScript, and a mobile-first approach. The result is a fully responsive, feature-rich travel company website that showcases my skills in UI/UX design and web development."
+              description="Este proyecto me permitió implementar tecnologías de vanguardia y mejores prácticas, incluyendo Next.js 13, React.js, Tailwind CSS, TypeScript y un enfoque de diseño móvil primero. El resultado es un sitio web de una empresa de viajes completamente receptivo y rico en funciones que muestra mis habilidades en diseño de interfaz de usuario y desarrollo web."
               ghLink="https://github.com/klouds27/travel_app"
               demoLink="hilink-alpha.vercel.app"              
             />
