@@ -5,7 +5,7 @@ import Particle from "../Particle";
 import BuberBreakfast from "../../Assets/Projects/BuberBreakfast.png"; 
 import hilinkTravel from "../../Assets/Projects/hilinkTravel.png";
 import kloudEstate from "../../Assets/Projects/kloudEstate.png";
-
+import MintyHost from "../../Assets/Projects/MintyHost.png";
 
 function Projects() {
   return (
